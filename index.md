@@ -6,4 +6,3 @@ layout: posts
 type: blog
 title: Blog
 ---
-

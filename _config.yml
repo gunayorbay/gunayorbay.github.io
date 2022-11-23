@@ -19,7 +19,6 @@ email:
 description: Personal website of Gunay Orbay, PhD.
 baseurl: "/"
 url: https://www.gunayorbay.com
-twitter_username: gorbay
 github_username:  gunayorbay
 
 # Build settings
