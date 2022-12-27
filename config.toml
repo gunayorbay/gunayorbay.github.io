@@ -1,0 +1,22 @@
+baseURL = 'http://www.gunayorbay.com'
+languageCode = 'en-us'
+title = 'Gunay Orbay, PHD'
+theme = 'hugo-paper'
+
+[params]
+  github = 'gunayorbay'
+  mastodon = 'https://mastodon.social/@gorbay'
+  instagram = 'gunayorbay'
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about me'
+  url = '/about/'
+[[menu.main]]
+  identifier = 'posts'
+  name = 'blog posts'
+  url = '/posts/'
+[[menu.main]]
+  identifier = 'publications'
+  name = 'my publications'
+  url = '/publications/'

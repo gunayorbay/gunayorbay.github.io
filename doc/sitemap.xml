@@ -1,57 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  
-    
-  <url><loc>https://www.gunayorbay.com/403.html</loc></url>
-     
-  
-    
-  <url><loc>https://www.gunayorbay.com/404.html</loc></url>
-     
-  
-    
-  <url><loc>https://www.gunayorbay.com/about/</loc></url>
-     
-  
-    
-  <url><loc>https://www.gunayorbay.com/</loc></url>
-     
-  
-    
-  <url><loc>https://www.gunayorbay.com/publications/</loc></url>
-     
-  
-    
-  
-    
-  <url><loc>https://www.gunayorbay.com/assets/main.css</loc></url>
-     
-  
-    
-  
-
-  
-<url><loc>https://www.gunayorbay.com/jekyll/update/2020/06/27/welcome-to-jekyll.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/blog/2018/03/18/publication-list-is-online.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/blog/2018/03/16/first-post.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2015/01/01/JMD-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2014/02/20/JVLC-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2012/01/01/JVLC-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2012/01/01/JMD-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2012/01/01/CAG-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2012/01/01/AIEDAM-0.html</loc></url>
-  
-<url><loc>https://www.gunayorbay.com/publication/2010/01/01/TVCG-0.html</loc></url>
-  
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.gunayorbay.com/</loc>
+    <lastmod>2022-12-26T20:50:42-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://www.gunayorbay.com/posts/</loc>
+    <lastmod>2022-12-26T20:50:42-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://www.gunayorbay.com/posts/welcome-hugo/</loc>
+    <lastmod>2022-12-26T20:50:42-05:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/posts/publication-list-is-online/</loc>
+    <lastmod>2018-03-18T16:14:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/posts/first-post/</loc>
+    <lastmod>2018-03-16T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/</loc>
+    <lastmod>2015-01-01T20:18:23-04:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2015-01-01-jmd-0/</loc>
+    <lastmod>2015-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2014-03-16-jvlc-0/</loc>
+    <lastmod>2014-02-20T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2012-01-01-jmd-0/</loc>
+    <lastmod>2012-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2012-01-01-jvlc-0/</loc>
+    <lastmod>2012-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2012-01-01-aiedam-0/</loc>
+    <lastmod>2012-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2012-01-01-cag-0/</loc>
+    <lastmod>2012-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/publications/2010-01-01-tvcg-0/</loc>
+    <lastmod>2010-01-01T20:18:23-04:00</lastmod>
+  </url><url>
+    <loc>http://www.gunayorbay.com/about/</loc>
+  </url><url>
+    <loc>http://www.gunayorbay.com/categories/</loc>
+  </url><url>
+    <loc>http://www.gunayorbay.com/tags/</loc>
+  </url>
 </urlset>
