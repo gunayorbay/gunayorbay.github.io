@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Shape Design From Exemplar Sketches Using Graph-Based Sketch Analysis"
+date: 2012-01-01 20:18:23 -0400
+categories: publication
+---
+
+<h1>Abstract</h1>
+
+We describe a new technique that works from a set of concept sketches to support the exploration and engineering of products. Our approach allows the capture and reuse of geometric shape information contained in concept sketches, as a means to generate solutions that can concurrently satisfy aesthetic and functional requirements. At the heart of our approach is a graph-based representation of sketches that allows the determination of topological and geometric similarities in the input sketches. This analysis, when combined with a geometric deformation analysis, results in a design space from which new shapes can be synthesized, or a developing design can be optimized to satisfy prescribed objectives. Moreover, it facilitates a sketch-based, interactive editing of existing designs that preserves the shape characteristics captured in the design space. A key advantage of the proposed method is that shape features common to all sketches as well as those unique to each sketch can be separately identified, thus allowing a mixing of different sketches to generate a topologically and geometrically rich set of conceptual alternatives. We demonstrate our technique with 2D and 3D examples.
+
+<!--more-->
+
+<h1>Citation</h1>
+
+Gunay Orbay, Levent Burak Kara. (2012). Shape Design From Exemplar Sketches Using Graph-Based Sketch Analysis. ASME Journal of Mechanical Design, Volume 134 (11).
+
+<pre>
+@article{orbay2012jmd,
+ title={Shape Design From Exemplar Sketches Using Graph-Based Sketch Analysis},
+ author={Gunay Orbay and Levent Burak Kara},
+ journal={Journal of Mechanical Design},
+ volume={134},
+ number={11},
+ year={2012},
+}
+ </pre>
