@@ -1,4 +1,4 @@
-baseURL = 'http://gunayorbay.com/testing.github.io/'
+baseURL = 'https://gunayorbay.github.io/'
 languageCode = 'en-us'
 title = 'Günay Orbay, PHD'
 theme = 'cactus'
