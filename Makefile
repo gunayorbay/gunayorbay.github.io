@@ -1,6 +1,6 @@
 PANOPTS=--standalone \
 	--table-of-contents \
-	--css=main.css \
+	--css=/main.css \
 	--section-divs \
 	--email-obfuscation=references \
 	--include-after-body=footer.html \
