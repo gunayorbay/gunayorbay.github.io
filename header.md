@@ -4,6 +4,6 @@
 # Günay Orbay, PHD
 </div>
 <nav>
-[home](index.html) &bull; [about me](about.html) &bull; [my publications](publications.html)
+[home](/index.html) &bull; [about me](/about.html) &bull; [my publications](/publications.html)
 </nav>
 </header>
